@@ -7,12 +7,23 @@
 
 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=The-Aniketlad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=The-Aniketlad&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Aniketlad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Aniketlad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=The-Aniketlad&theme=nightowl&hide_border=false" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Aniketlad&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=The-Aniketlad&icon=1&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=The-Aniketlad&icon=1&color=3" alt="Visitor Count"/>
+  </a>
+</p>
