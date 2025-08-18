@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0bf800&center=true&vCenter=true&width=500&lines=Hi+I'm+Aniket+Lad;Web+Developer;Data+Analyst;UI+UX+Developer" alt="Typing SVG" />
 </p>
 
-   📌 Table of Contents
+📌 Table of Contents
 
 <p align="center">
   <a href="#-About">About</a> •
@@ -12,7 +12,7 @@
   <a href="#-Contact">Contact</a>
 </p>
 
-<br></p><br><br><br><br>##👋 About<br>A highly motivated MCA student with a solid foundation in programming and data tools. I love building clean UIs, data visualizations, and helpful tools—then polishing the tiny details that make everything feel ✨just right.<br><br>- 🌱 Currently learning: better UI/UX flows, data viz storytelling, and scalable frontend patterns  <br>- 💡 Interests: interactive dashboards, portfolio UX, and tiny utilities that save big time  <br>- 🤝 Open to: internships, freelance collaborations, and open-source<br><br><br><br>🛠 Skills<br> • Languages:- Python, JavaScript, HTML, CSS, R.  <br> • Data & Viz:- Power BI, Tableau, Data Visualization.  <br> • Web/UI:- Responsive layouts, basic UI/UX.  <br> • Soft Skills:- Problem Solving, Troubleshooting, Logical Thinking, Decision Making, Leadership.<br><br> <br><br><br><br>🚀 Projects<br>- Anime Streaming App (Kuro Neko) — UI/UX concept - https://www.figma.com/design/uzEJJOF1QzckAtWxq9Sblc/Kuro-neko--Anime-Streaming-app-?m=auto&t=5ZG9zClxdmN2mgvu-6  <br><br>- Personal Portfolio — https://aniketlad.netlify.app/  <br><br>- Responsive Dashboard — https://dashboardaniket.netlify.app/)<br><br><!--<br><p><br>  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" height="160"><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true" height="160"><br></p><br>--><br>📬 Contact<br>- Mail: aniketlad28@gmail.com<br><br><br><br><br>
+<br></p><br><br><br><br>👋 About<br>A highly motivated MCA student with a solid foundation in programming and data tools. I love building clean UIs, data visualizations, and helpful tools—then polishing the tiny details that make everything feel ✨just right.<br><br>- 🌱 Currently learning: better UI/UX flows, data viz storytelling, and scalable frontend patterns  <br>- 💡 Interests: interactive dashboards, portfolio UX, and tiny utilities that save big time  <br>- 🤝 Open to: internships, freelance collaborations, and open-source<br><br><br><br>🛠 Skills<br> • Languages:- Python, JavaScript, HTML, CSS, R.  <br> • Data & Viz:- Power BI, Tableau, Data Visualization.  <br> • Web/UI:- Responsive layouts, basic UI/UX.  <br> • Soft Skills:- Problem Solving, Troubleshooting, Logical Thinking, Decision Making, Leadership.<br><br> <br><br><br><br>🚀 Projects<br>- Anime Streaming App (Kuro Neko) — UI/UX concept - https://www.figma.com/design/uzEJJOF1QzckAtWxq9Sblc/Kuro-neko--Anime-Streaming-app-?m=auto&t=5ZG9zClxdmN2mgvu-6  <br><br>- Personal Portfolio — https://aniketlad.netlify.app/  <br><br>- Responsive Dashboard — https://dashboardaniket.netlify.app/)<br><br><!--<br><p><br>  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" height="160"><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=true" height="160"><br></p><br>--><br>📬 Contact<br>- Mail: aniketlad28@gmail.com<br><br><br><br><br>
 
 
 🌐 Socials:
