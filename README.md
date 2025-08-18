@@ -5,7 +5,7 @@
 
    📌 Table of Contents
 
-- [About](##)
+- [About](#-About)
 - [Skills](#-skills)
 - [Projects](#-projects)
 - [Contact](#-contact)
